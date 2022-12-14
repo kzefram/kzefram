@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kzefram
 - 👀 I’m interested in Computer Science and 3D Digital Art
-- 🌱 I’m currently learning Software Quality Assurance
+- 🌱 I’m currently learning Computer Science and Software Quality Assurance
 
 <!---
 kzefram/kzefram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
